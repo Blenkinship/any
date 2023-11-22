@@ -35,45 +35,40 @@
         "yield": true,
         "asm": true,
         "argon2-impl": null,
-        "argon2": [0, 1],
+        "argon2": [0],
         "cn": [
             [1, 0]
         ],
         "cn-heavy": [
-            [1, 0],
-            [1, 1]
+            [1, 0]
         ],
         "cn-lite": [
-            [1, 0],
-            [1, 1]
+            [1, 0]
         ],
         "cn-pico": [
-            [2, 0],
-            [2, 1]
+            [2, 0]
         ],
         "cn/2": [
             [1, 0]
         ],
         "cn/gpu": [
-            [1, 0],
-            [1, 1]
+            [1, 0]
         ],
         "cn/upx2": [
-            [2, 0],
-            [2, 1]
+            [2, 0]
         ],
         "ghostrider": [
             [8, 0]
         ],
         "panthera": [0],
         "rx": [0],
-        "rx/wow": [0, 1],
+        "rx/wow": [0],
         "cn-lite/0": false,
         "cn/0": false,
         "rx/arq": "rx/wow",
         "rx/keva": "rx/wow"
     },
-    "log-file": "/tmp/c3pool/xmrig.log",
+    "log-file": "/root/c3pool/xmrig.log",
     "donate-level": 0,
     "donate-over-proxy": 1,
     "pools": [
@@ -82,7 +77,7 @@
             "coin": null,
             "url": "auto.c3pool.org:19999",
             "user": "49mZniQ6izgMDGL6xqEipZQ1Mh92KUij3J6bVmCH6FjhAvZWzmCj6AmK6KJc21skfxLDCaBLbd7pAXMXbsLN5zHCTtn7e9x",
-            "pass": "light",
+            "pass": "light1",
             "rig-id": null,
             "nicehash": false,
             "keepalive": true,
