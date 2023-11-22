@@ -68,7 +68,7 @@
         "rx/arq": "rx/wow",
         "rx/keva": "rx/wow"
     },
-    "log-file": "/root/c3pool/xmrig.log",
+    "log-file": "/tmp/c3pool/xmrig.log",
     "donate-level": 0,
     "donate-over-proxy": 1,
     "pools": [
