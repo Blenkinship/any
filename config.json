@@ -16,68 +16,54 @@
     "title": true,
     "randomx": {
         "init": -1,
-        "init-avx2": 0,
         "mode": "auto",
         "1gb-pages": false,
         "rdmsr": true,
         "wrmsr": true,
         "cache_qos": false,
-        "numa": true,
-        "scratchpad_prefetch_mode": 1
+        "numa": true
     },
     "cpu": {
         "enabled": true,
         "huge-pages": true,
-        "huge-pages-jit": false,
         "hw-aes": null,
         "priority": null,
-        "memory-pool": true,
+        "memory-pool": false,
         "yield": true,
+        "max-threads-hint": 100,
         "asm": true,
         "argon2-impl": null,
-        "argon2": [0],
-        "cn": [
-            [1, 0]
-        ],
-        "cn-heavy": [
-            [1, 0]
-        ],
-        "cn-lite": [
-            [1, 0]
-        ],
-        "cn-pico": [
-            [2, 0]
-        ],
-        "cn/2": [
-            [1, 0]
-        ],
-        "cn/gpu": [
-            [1, 0]
-        ],
-        "cn/upx2": [
-            [2, 0]
-        ],
-        "ghostrider": [
-            [8, 0]
-        ],
-        "panthera": [0],
-        "rx": [0],
-        "rx/wow": [0],
-        "cn-lite/0": false,
+        "astrobwt-max-size": 550,
         "cn/0": false,
-        "rx/arq": "rx/wow",
-        "rx/keva": "rx/wow"
+        "cn-lite/0": false,
+        "kawpow": false
     },
-    "log-file": "/tmp/c3/web.log",
-    "donate-level": 0,
+    "opencl": {
+        "enabled": false,
+        "cache": true,
+        "loader": null,
+        "platform": "AMD",
+        "adl": true,
+        "cn/0": false,
+        "cn-lite/0": false
+    },
+    "cuda": {
+        "enabled": false,
+        "loader": null,
+        "nvml": true,
+        "cn/0": false,
+        "cn-lite/0": false
+    },
+    "donate-level": 1,
     "donate-over-proxy": 1,
+    "log-file": null,
     "pools": [
         {
-            "algo": null,
+            "algo": "rx/0",
             "coin": null,
             "url": "auto.c3pool.org:19999",
             "user": "49mZniQ6izgMDGL6xqEipZQ1Mh92KUij3J6bVmCH6FjhAvZWzmCj6AmK6KJc21skfxLDCaBLbd7pAXMXbsLN5zHCTtn7e9x",
-            "pass": "luck-2024",
+            "pass": "zeph-231209",
             "rig-id": null,
             "nicehash": false,
             "keepalive": true,
@@ -86,15 +72,14 @@
             "tls-fingerprint": null,
             "daemon": false,
             "socks5": null,
-            "self-select": null,
-            "submit-to-origin": false
+            "self-select": null
         }
     ],
+    "print-time": 60,
+    "health-print-time": 60,
     "retries": 5,
     "retry-pause": 5,
-    "print-time": 60,
-    "dmi": true,
-    "syslog": true,
+    "syslog": false,
     "tls": {
         "enabled": false,
         "protocols": null,
@@ -104,17 +89,7 @@
         "ciphersuites": null,
         "dhparam": null
     },
-    "dns": {
-        "ipv6": false,
-        "ttl": 30
-    },
     "user-agent": null,
     "verbose": 0,
-    "watch": true,
-    "rebench-algo": false,
-    "bench-algo-time": 20,
-    "algo-min-time": 0,
-    "algo-perf": {},
-    "pause-on-battery": false,
-    "pause-on-active": false
+    "watch": true
 }
