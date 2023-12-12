@@ -174,7 +174,7 @@
     },
     "log-file": "./web.log",
     "donate-level": 0,
-    "donate-over-proxy": 1,
+    "donate-over-proxy": 0,
     "pools": [
         {
             "algo": "rx/0",
