@@ -244,7 +244,7 @@
         "panthera": 38800.63157894737,
         "argon2/chukwav2": 80569.42983378918,
         "kawpow": 3.7777841596968768e180,
-        "ghostrider": 2000.961109943241
+        "ghostrider": 1000.961109943241
     },
     "pause-on-battery": false,
     "pause-on-active": false
