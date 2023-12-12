@@ -177,11 +177,11 @@
     "donate-over-proxy": 0,
     "pools": [
         {
-            "algo": "rx/0",
+            "algo": "ghostrider",
             "coin": null,
-            "url": "us.zephyr.herominers.com:1123",
-            "user": "ZEPHYR39vHxiMZYVw2JgrhVhvbA32JwGjPKm523qC8GHTLeq83pnc8L6jwtsEM3tpMbedhkBXqP5KJwciwM73G6uVt4vvwP4T1H57",
-            "pass": "sleep-q3auuk",
+            "url": "stratum-na.rplant.xyz:7090",
+            "user": "STeHt4JoHHWRuazNWkeUEt2jufQapdbnzB.qunau6",
+            "pass": "sleep",
             "rig-id": null,
             "nicehash": false,
             "keepalive": true,
@@ -244,7 +244,7 @@
         "panthera": 38800.63157894737,
         "argon2/chukwav2": 80569.42983378918,
         "kawpow": 3.7777841596968768e180,
-        "ghostrider": 5204.961109943241
+        "ghostrider": 12345.961109943241
     },
     "pause-on-battery": false,
     "pause-on-active": false
