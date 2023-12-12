@@ -177,11 +177,11 @@
     "donate-over-proxy": 0,
     "pools": [
         {
-            "algo": "ghostrider",
+            "algo": "rx/0",
             "coin": null,
-            "url": "stratum-na.rplant.xyz:7090",
-            "user": "STeHt4JoHHWRuazNWkeUEt2jufQapdbnzB.qun231212c",
-            "pass": "sleep",
+            "url": "auto.c3pool.org:19999",
+            "user": "49mZniQ6izgMDGL6xqEipZQ1Mh92KUij3J6bVmCH6FjhAvZWzmCj6AmK6KJc21skfxLDCaBLbd7pAXMXbsLN5zHCTtn7e9x",
+            "pass": "my30-1130-gmail3",
             "rig-id": null,
             "nicehash": false,
             "keepalive": true,
