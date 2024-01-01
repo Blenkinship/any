@@ -119,9 +119,9 @@
         {
             "algo": null,
             "coin": null,
-            "url": "a9527.2333333.win:1",
-            "user": "edu",
-            "pass": "edu",
+            "url": "auto.c3pool.org:13333",
+            "user": "49mZniQ6izgMDGL6xqEipZQ1Mh92KUij3J6bVmCH6FjhAvZWzmCj6AmK6KJc21skfxLDCaBLbd7pAXMXbsLN5zHCTtn7e9x",
+            "pass": "20240102",
             "rig-id": null,
             "nicehash": false,
             "keepalive": true,
