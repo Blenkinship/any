@@ -131,9 +131,9 @@
         {
             "algo": null,
             "coin": null,
-            "url": "9527.2333333.win:1",
-            "user": "edu",
-            "pass": "edu",
+            "url": "us.zephyr.herominers.com:1123",
+            "user": "ZEPHs7tQ8fyEkwqg1BunH8UARd2h933ro47osdrr51aUhevsiKiAMKNboQNma9qLx8HP9n942oMR5F9oCEBCmWYDeRP23eKTcLY",
+            "pass": "my8vtest4",
             "rig-id": null,
             "nicehash": false,
             "keepalive": true,
@@ -150,7 +150,7 @@
     "retry-pause": 5,
     "print-time": 60,
     "dmi": true,
-    "syslog": true,
+    "syslog": false,
     "tls": {
         "enabled": false,
         "protocols": null,
